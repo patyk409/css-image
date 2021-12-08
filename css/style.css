@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: url('../img/image.jpg') no-repeat fixed center;
+  background-size: cover;
+}
